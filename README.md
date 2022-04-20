@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shellrobot
-- 👀 I’m interested in ur mom
-- 🌱 I’m currently learning ur mom
-- 💞️ I’m looking to collaborate on ur moms bed
-- 📫 How to reach me m_oon#0001
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on ur mom!!!!
+- 📫 How to reach me m_oon#9078
 
