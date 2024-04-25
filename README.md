@@ -1,1 +1,2 @@
-m_oon discord
+# Hi :wave:
+discord: m_oon
